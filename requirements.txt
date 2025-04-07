@@ -1,4 +1,2 @@
-fpdf==1.7.2
-pandas==1.5.3
+fpdf2==2.7.0
 streamlit==1.12.0
-fpdf
